@@ -9,12 +9,12 @@ This repository contains the implementation of VeriDIP, a novel approach to veri
 
 ### Citation
 If you use our work in your research, please cite:
-`@article{10246205,
-  author={Hu, Aoting and Lu, Zhigang and Xie, Renjie and Xue, Minhui},
-  journal={IEEE Transactions on Dependable and Secure Computing}, 
-  title={VeriDIP: Verifying Ownership of Deep Neural Networks through Privacy Leakage Fingerprints}, 
-  year={2023},
-  pages={1-17},
+`@article{10246205,\\
+  author={Hu, Aoting and Lu, Zhigang and Xie, Renjie and Xue, Minhui},\\
+  journal={IEEE Transactions on Dependable and Secure Computing}, \\
+  title={VeriDIP: Verifying Ownership of Deep Neural Networks through Privacy Leakage Fingerprints}, \\
+  year={2023},\\
+  pages={1-17},\\
   doi={10.1109/TDSC.2023.3313577}
 }`
 
