@@ -25,7 +25,7 @@ If you use our work in your research, please cite:
 ### Getting Started
 To use VeriDIP, follow these steps:
 
-1. Clone this repository: `git clone https://github.com/your-username/VeriDIP.git`
+1. Clone this repository: `git clone https://github.com/Katerina828/VeriDIP.git`
 2. Install the required dependencies
 3. Run the example code: `cifar10.ipynb` 
 
